@@ -1,0 +1,13 @@
+{
+	"methods": [{
+		"name": "getReport",
+		"operationType": null,
+		"parameters": [{
+			"name": "idp",
+			"type": "java.lang.String"
+		}],
+		"returnType": "com.wavemaker.runtime.server.DownloadResponse"
+	}],
+	"serviceType": "JSON-RPC",
+	"serviceURL": "reciboMatricula.json"
+}

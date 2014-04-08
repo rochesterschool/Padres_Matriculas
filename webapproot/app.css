@@ -1,0 +1,5 @@
+html.WMApp body .encabezados {
+    background-color: #C33548 !important;
+    color: white !important;
+    text-align: center;
+}
